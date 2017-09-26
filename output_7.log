@@ -1,0 +1,13 @@
+Gap 282 for numbers 436273009 and 436273291
+Total time to compute: 258.799104 seconds
+--- SharcNET Job Epilogue ---
+              job id: 10842290
+         exit status: 0
+            cpu time: 1794s / 7.0h (7 %)
+        elapsed time: 264s / 1.0h (7 %)
+      virtual memory: 601.7M / 1.0G (58 %)
+
+Job completed successfully
+WARNING: Job only used 7 % of its requested walltime.
+WARNING: Job only used 7 % of its requested cpu time.
+WARNING: Job only used 58% of its requested memory.
